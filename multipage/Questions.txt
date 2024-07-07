@@ -1,0 +1,31 @@
+Imagine you have an important project that requires long hours of focused work.Do you think you can work infront of a system for a long period of time (Yes or No)?
+
+Have you ever independently pursued a new skill or topic, even if it wasn't part of your formal curriculum, and successfully gained knowledge or proficiency in it (Yes or No)?
+
+Have you proactively pursued additional courses or learning opportunities beyond your regular curriculum to enhance your skills or knowledge (Yes or No)?
+
+Have you ever participated in talent or aptitude tests designed to assess your unique abilities and strengths (Yes or No)?
+
+Have you ever challenged yourself by participating in academic or subject-specific olympiads (Yes or No)?
+
+What field or area are you most passionate about when you think about your future career? Is there a particular industry or role that excites you the most?
+
+As you approach the next phase of your academic journey, do you see yourself pursuing higher studies, or are you more inclined towards starting your career in a job (Job or Higher Studies)?
+
+Have you actively sought guidance or valuable insights from your seniors or elders when making important decisions related to your education or future aspirations (Yes or No)?
+
+Do you have an interest in playing games, whether they are video games, board games, or other types of games (Yes or No)?
+
+What genre or type of books do you find most captivating?
+
+In a personal conflict with a friend, would you try to resolve it through gentle communication and understanding, or would you be stubborn and hold onto your viewpoint without compromise (Gentle or Stubborn)?
+
+If offered the opportunity to work on cutting-edge technology projects, would you be more excited to contribute to technical innovations and advancements or to manage the overall project and team (Management or Technical)?
+
+You have a big exam coming up. Would you choose to study hard, dedicating long hours to cover all the material thoroughly, or would you strategize and study smart, focusing on key concepts and efficient study techniques (Hard worker or Smart Worker)? 
+
+Have you ever participated in a group project or assignment as part of your school or college coursework (Yes or No)?
+
+When asked to speak in public or present in front of a class, do you feel a sense of discomfort and nervousness, suggesting a preference for quieter settings (Yes or No)?
+
+Thankyou

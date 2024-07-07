@@ -1,0 +1,30 @@
+User Registration:
+The registration module typically starts with a registration form displayed on a web page.
+The form collects essential user information needed to create an account.
+Users are required to provide information such as:
+Their SSLC,HSC,description on their achievements.
+Areas of interests
+Conduct Aptitude Test:
+Create a set of test questions for each selected aptitude test type. 
+Ensure that the questions are relevant to the targeted skills or abilities
+Develop or integrate an AI model that uses the aptitude test results as input.
+Train the AI model to predict users' interests based on their aptitude scores.
+Implement Career Counselling:
+Utilize AI to generate personalized career recommendations for each user. 
+These recommendations should align with the user's aptitudes, interests, and goals.
+Provide information about educational institutions, courses, and certifications relevant to the recommended careers.
+Analyze feedback:
+Implement a feedback system to collect user insights and continuously improve the career counseling services and resources
+
+
+Role of NLP algorithm:
+Aptitude Tests: The NLP system needs to include modules for conducting aptitude tests.
+These tests should cover various domains such as numerical, verbal, logical, and spatial reasoning. 
+The NLP system should be able to evaluate and score these tests accurately.
+
+User Profiles: Users, specifically secondary-level students, should be able to create profiles on the platform. These profiles would include personal \
+
+AI-Based Counseling:
+ The NLP system should have AI capabilities for counseling.
+ This involves analyzing user profiles, aptitude test results, and user inputs to provide personalized career recommendations.
+ The AI should be able to generate explanations for these recommendations, making them easy for users to understand.

@@ -1,0 +1,222 @@
+Vijesh Pethuram K, 6:24 PM
+Hi guys
+Share your innovative ideas on our topic within 7.20 pm, so that we can start making the presentation. Also, each of you are requested to do 2 - 3 slides each.Kindly do your sections of PPT and send it to all members within 10.45 pm.Prabhu - Innovations (He will sort your ideas and send us the overall shortlisted ideas, which will be used to proceed further)Vignesh - System designVijesh - Technologies to be used + Advantages and drawbacksDeepalakshmi - Use casesAbinaya - DependenciesSanchith - Prototype
+
+Vijesh Pethuram K, 6:27 PM
+If you have any queries, post here
+
+Deepalakshmi N J S, 6:35 PM
+Abhinaya has idea regarding AI-powered video games helps students to develop skills in various career in a fun mannerWill this idea be suitable for us?!
+
+Vijesh Pethuram K, 6:44 PM
+I think this is not related to our topic. Because we need to only assess the skills of a student and give them career choices using AI. However, we'll note it.
+
+Deepalakshmi N J S, 6:44 PM
+Okay!
+
+Sanchith R S, 6:56 PM
+🙄what do you mean by prototype vijesh let me take care of introduction in the presentation
+
+Deepalakshmi N J S, 6:57 PM
+NLP and text mining techniques to extract information from user input and identify keywords, goals, and preferences.It also processes and extracts structured data from unstructured sources like job descriptions, career guides, and industry reports.
+natural language processing can be incorporated in our models? will it be suitable
+
+Vijesh Pethuram K, 7:02 PM
+We are building a web app and planned to have step by step questions for the student and then analyze the choices made by them and giving them a suitable career. NLP can be useful while getting input from user. Idea noted.
+Prototype is just a demo that explains what our web app will actually do.
+
+Vijesh Pethuram K, 7:05 PM
+Just explain about the features of our app once we finalize all ideas
+
+Sanchith R S, 7:06 PM
+it wont be  relevant to the topic grow through it once rather we can have brain teaser game to find a best matching career
+
+Vijesh Pethuram K, 7:07 PM
+At initial stages we could have only text based choices later we can add games
+Develop a series of questions that cover various aspects of the student's interests, skills, values, and aspirations. These questions can be in the form of multiple-choice questions.
+
+Sanchith R S, 7:08 PM
+then for that we have to confirm the full layouts and modules in our application vijesh so it would be better to finalize the modules by tomorrow .
+
+Vijesh Pethuram K, 7:09 PM
+Tomorrow we have presentation
+
+Sanchith R S, 7:10 PM
+😅really
+
+Vijesh Pethuram K, 7:10 PM
+Department level presentation
+
+Deepalakshmi N J S, 7:10 PM
+Can you list briefly about our project (step by step) on so far discussion
+
+Vijesh Pethuram K, 7:10 PM
+So within today we need to prepare a ppt
+
+Sanchith R S, 7:10 PM
+okay guys pls share your ppts in normal slides or in word format i will bind and make as a neat ppt
+
+Vijesh Pethuram K, 7:11 PM
+Just a min
+
+Deepalakshmi N J S, 7:11 PM
+Sure
+
+Sanchith R S, 7:11 PM
+where in vignesh da?
+*is
+
+Vijesh Pethuram K, 7:12 PM
+I will tell to him the details
+
+Sanchith R S, 7:12 PM
+mm sure ask his idea too
+
+Vijesh Pethuram K, 7:14 PM
+First the student logins to the website. Then he should take a career assessment test. Next step is your innovative ideas. Then we will provide the student with a career recommendation and some other fields related to it.
+
+Sanchith R S, 7:14 PM
+hey so we are doing it for school students right ?
+
+Vijesh Pethuram K, 7:14 PM
+yes
+Description: The project team shall establish an interactive AI based model that will help students to to choose from careers. The model should handhold student in assessing his capabilities and subsequently help him in deciding a career path
+
+Sanchith R S, 7:16 PM
+please finalize the innovative idea so that we can state in ppt and it would help to elevate us from others idea
+
+Vijesh Pethuram K, 7:16 PM
+Yeah. Prabhu will shortlist all the ideas and check for feasibility and finalize the ideas.
+
+Sanchith R S, 7:18 PM
+does  @Abinaya S M know will she submit the ppt?
+
+Vijesh Pethuram K, 7:18 PM
+I think @Deepalakshmi N J S informed her.
+
+Sanchith R S, 7:18 PM
+@all so any idea about our project are welcome ,but post it before 9pm
+
+Vijesh Pethuram K, 7:19 PM
+One idea: Voice-Activated Career Assistant
+
+Deepalakshmi N J S, 7:20 PM
+She is going for night lab it seems
+
+Sanchith R S, 7:20 PM
+fine then
+can you explain it vijesh
+
+Vijesh Pethuram K, 7:20 PM
+Dei questions ah read panra maathiri vaikalam'
+
+Deepalakshmi N J S, 7:20 PM
+For use cases is it enough to make use case diagram or should I give some explanation about it
+
+Vijesh Pethuram K, 7:21 PM
+Read aloud feature
+Explanation too
+
+Deepalakshmi N J S, 7:21 PM
+Ok done
+
+Sanchith R S, 7:22 PM
+😵pls text in english
+🙃dude it is an add-on feature pls state the main part of the modules
+question vechu train pandradha thavara nama edhumae panala da
+
+Vijesh Pethuram K, 7:23 PM
+@Prabhu R Please short list all ideas and send it to group so that sanchit will prepare a ppt
+Also all others can proceed on their work.
+We will wait for innovative ideas.
+
+Sanchith R S, 7:26 PM
+
+fine then lets wait
+
+1 unread, Sanchith R S (via Tasks), 7:29 PM
+Created a task
+
+Deepalakshmi N J S, 7:33 PM
+Can we build deep learning models, to predict future career paths based on a user's past experiences, skills, and interests.This can be used by users to set a goal and Our system will mark the progress like it can organize a daily task and tell the user to complete it
+
+Sanchith R S, 7:44 PM
+mm good\
+
+Vijesh Pethuram K, 7:45 PM
+Yeah, we are going to use deep learning models only for our project. Also we can take experiences, skills, interest into account
+
+Sanchith R S, 7:45 PM
+but daily tracking and progress in not suitable
+
+Vijesh Pethuram K, 7:45 PM
+Yeah
+
+Sanchith R S, 7:45 PM
+for our idea
+
+Vijesh Pethuram K, 7:46 PM
+Hostel net time over. lets meet in 10:30
+
+Sanchith R S, 7:48 PM
+school marks and competitions participated/won other co-curricular activities are only the user's past experiences we need may be . can you state what kind of user's past experiences you are willing to @Deepalakshmi N J S
+
+Deepalakshmi N J S, 7:59 PM
+It can be his area of interest.
+We can get a detailed description of it
+Let's train a model which analyse the description and suggest some career paths on it.
+
+Yogarajan G., 8:02 PM
+Hi All, it's mainly for children at secondary level
+Pls... Consider that too while preparing solution
+
+Sanchith R S, 8:03 PM
+sure sir
+
+Yogarajan G., 8:03 PM
+Don't consider graduates for our case... Hope that's not our pbm statement
+
+Abinaya S M, 9:19 PM
+how about getting real time feedback from the students about what they felt
+
+Abinaya S M, 54 min
+we can include the feedback of the persons from the different job roles example civil servants, government employees, teaching sector banking sector and so on.so the students could get some knowledge about different sectors.
+
+Deepalakshmi N J S, 48 min
+
+
+Sanchith R S, 43 min
+yeah it will be a good idea
+but not relevant to us i think so
+..
+
+Sanchith R S, 39 min
+i think we can have feed backs of the courses by the students studying the course
+
+Sanchith R S, 27 min
+guys pls share the ppts or content you prepared without fail @all 🙄
+
+Deepalakshmi N J S, 25 min
+
+
+Sanchith R S, 20 min
+what is this mam?
+can you send description for this chart
+@Deepalakshmi N J S
+
+Deepalakshmi N J S, 17 min
+I couldn't send it in group chat
+I have sent it to your mail!!
+Based on the discussion so far I have made this usecase
+So if you find any correction let me know
+
+Sanchith R S, 12 min
+yeah i have received it thanks
+
+
+Sanchith R S, Now
+🙃where are the ppts
+
+Vijesh Pethuram K, Now
+Hi guys. Kindly research for any datasets available
+in internet
